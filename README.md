@@ -1,4 +1,4 @@
-# LGM-VIP-04
+# LGMVIP-DataScience-04
 DECISION TREE CLASSIFIER
 
 The dataset consists of measurements taken from 150 samples of Iris flowers, where each sample belongs to one of three different species: setosa, versicolor, or virginica. For each sample, four features or attributes were measured:
